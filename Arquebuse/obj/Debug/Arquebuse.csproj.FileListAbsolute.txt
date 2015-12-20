@@ -1,0 +1,9 @@
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\bin\Debug\Arquebuse.exe.config
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.csprojResolveAssemblyReference.cache
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.Form1.resources
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.Properties.Resources.resources
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.csproj.GenerateResource.Cache
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\bin\Debug\Arquebuse.exe
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\bin\Debug\Arquebuse.pdb
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.exe
+E:\TZ\Documents\Visual Studio 2013\Projects\Arquebuse\Arquebuse\obj\Debug\Arquebuse.pdb
